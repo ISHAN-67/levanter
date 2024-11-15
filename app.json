@@ -17,7 +17,7 @@
     "SUDO": {
       "description": "admin",
       "required": false,
-      "value": ""
+      "value": "+919395088931"
     },
     "PREFIX": {
       "description": "prefix, check for more",
@@ -27,12 +27,12 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "levanter_1583276d76656842b0aa339c53f45440bf"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "ISHAN "
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
